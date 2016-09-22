@@ -1,3 +1,4 @@
+
 function whichSchool(age){
   if (age < 13){
     return "Elementary School";
